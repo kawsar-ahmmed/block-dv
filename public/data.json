@@ -1,38 +1,26 @@
 [
     {
-        "month": "Mar",
-        "investment": 100000,
-        "sell": 241,
-        "revenue": 10401
+        "name": "Blockchain Development",
+        "description": "In pellentesque sagittis integer iaculis diam neque justo, aliquam quisque. Tempus vel non consequat suspendisse eget feugiat ultrices. Amet, sit netus feugiat eu elit non ac amet. Volutpat mauris eget ultricies orci tempor sapien"
     },
     {
-        "month": "Apr",
-        "investment": 200000,
-        "sell": 423,
-        "revenue": 24500
+        "name": "Web Development",
+        "description": "Ornare quisque lorem ac pharetra vel pharetra. Eu, tellus viverra semper faucibus velit purus nunc tempor. Sed sit viverra mauris libero. Justo, morbi gravida at faucibus facilisis quis erat "
     },
     {
-        "month": "May",
-        "investment": 500000,
-        "sell": 726,
-        "revenue": 67010
+        "name": "Mobile App Development",
+        "description": "In pellentesque sagittis integer iaculis diam neque justo, aliquam quisque. Tempus vel non consequat suspendisse eget feugiat ultrices. Amet, sit netus feugiat eu elit non ac amet. Volutpat mauris eget ultricies orci tempor sapien"
     },
     {
-        "month": "Jun",
-        "investment": 500000,
-        "sell": 529,
-        "revenue": 40405
+        "name": "SEO Service",
+        "description": "Ornare quisque lorem ac pharetra vel pharetra. Eu, tellus viverra semper faucibus velit purus nunc tempor. Sed sit viverra mauris libero. Justo, morbi gravida at faucibus facilisis quis erat "
     },
     {
-        "month": "Jul",
-        "investment": 600000,
-        "sell": 601,
-        "revenue": 50900
+        "name": "Video Editing",
+        "description": "In pellentesque sagittis integer iaculis diam neque justo, aliquam quisque. Tempus vel non consequat suspendisse eget feugiat ultrices. Amet, sit netus feugiat eu elit non ac amet. Volutpat mauris eget ultricies orci tempor sapien"
     },
     {
-        "month": "Aug",
-        "investment": 700000,
-        "sell": 670,
-        "revenue": 61000
+        "name": "Graphic Design",
+        "description": "In pellentesque sagittis integer iaculis diam neque justo, aliquam quisque. Tempus vel non consequat suspendisse eget feugiat ultrices. Amet, sit netus feugiat eu elit non ac amet. Volutpat mauris eget ultricies orci tempor sapien"
     }
 ]

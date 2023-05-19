@@ -1,3 +1,20 @@
 .menu {
-    
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+.menu .active {
+    font-weight: bold;
+    color: #6128E3;
+}
+.menu-items a{
+    text-decoration: none;
+    margin: 0px 20px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.menu-items a:hover {
+    color: #6128E3;
 }

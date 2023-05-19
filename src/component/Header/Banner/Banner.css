@@ -1,0 +1,31 @@
+.banner-info {
+    padding-top: 120px;
+    padding-bottom: 160px;
+}
+.banner-info h1 {
+    margin-bottom: 30px;
+    font-size: 70px;
+}
+
+.banner-info span {
+    color: #6128E3;
+    display: block;
+    font-size: 90px;
+    font-weight: bold;
+}
+.banner-info p {
+    color: #fff;
+    margin-bottom: 45px;
+    font-size: 22px;
+}
+
+.banner-info button {
+    background: #6128E3;
+    padding: 20px 40px;
+    color: #fff;
+    border: none;
+    font-weight: bold;
+}
+.banner-img {
+    padding-top: 120px;
+}

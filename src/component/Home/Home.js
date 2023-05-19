@@ -1,10 +1,19 @@
 import React from 'react';
 import './Home.css'
+import Banner from '../Header/Banner/Banner';
+import Service from '../Service/Service';
+import Review from '../Review/Review';
 
 const Home = () => {
+    const handleBook = () => {
+        console.log('clicked')
+    }
     return (
         <div className='header-full'>
-            This is home worked
+            <Banner></Banner>
+            {/* Service */}
+            <Service></Service>
+            <Review></Review>
         </div>
     );
 };
